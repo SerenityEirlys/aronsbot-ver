@@ -27,8 +27,8 @@ const client = new Client({
 });
 
 // Bank API configuration
-const BANK_API_URL = 'https://api.sieuthicode.net/historyapivcb/cdb4cc2e79a1855e44b87f9333c3be42';
-const SIGNATURE = '7ee1751753a70f8dd77543a4be8317d0';
+const BANK_API_URL = '';
+const SIGNATURE = '';
 const BANK_CHANNEL_ID = '1335940104446935153';
 
 // Store the latest transaction reference
