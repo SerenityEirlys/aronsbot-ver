@@ -27,8 +27,8 @@ const client = new Client({
 });
 
 // Bank API configuration
-const BANK_API_URL = '';
-const SIGNATURE = '';
+const BANK_API_URL = ''; // api link bank
+const SIGNATURE = ''; // token bank
 const BANK_CHANNEL_ID = '1335940104446935153';
 
 // Store the latest transaction reference
